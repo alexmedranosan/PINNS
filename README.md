@@ -1,30 +1,5 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-
-<a name="readme-top"></a> <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
 <!-- PROJECT SHIELDS -->
 
-```{=html}
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-```
 [![Contributors](https://img.shields.io/github/contributors/alexmedranosan/PINNS.svg?style=for-the-badge)](https://github.com/alexmedranosan/PINNS/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/alexmedranosan/PINNS.svg?style=for-the-badge)](https://github.com/alexmedranosan/PINNS/network/members)
 [![Stargazers](https://img.shields.io/github/stars/alexmedranosan/PINNS.svg?style=for-the-badge)](https://github.com/alexmedranosan/PINNS/stargazers)
@@ -33,35 +8,27 @@ editor_options:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://es.linkedin.com/in/alejandro-medrano-san-clemente-394916149)
 
 <!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://www.uv.es/">
+    <img src="figs/logo_UV.png" alt="Logo" width="540" height="75"/> </a>
+  </a>
+
+  <h3 align="center"> Trabajo Fin de Grado: \n Aplicación de redes neuronales artificiales con información física para la resolución de problemas definidos por ecuaciones diferenciales </h3>
+  
+  <h5 align="center"> Código complementario | Alejandro Medrano San Clemente </h5>
+
+  <p align="center">
+    <br />
+    <a href="https://github.com/alexmedranosan/PINNS"><strong>Explora el proyecto »</strong></a> <br /> <br />
+    <a href="https://github.com/alexmedranosan/PINNS">View Demo</a> ·
+    <a href="https://github.com/alexmedranosan/PINNS/issues">Report Bug</a> ·
+    <a href="https://github.com/alexmedranosan/PINNS/issues">Request Feature</a>
+  </p>
+</div>
+
 
 <br />
-
-::: {align="center"}
-<a href="https://www.uv.es/">
-<img src="figs/logo_UV.png" alt="Logo" width="540" height="75"/> </a>
-
-<h3 align="center">
-
-Trabajo Fin de Grado: \n Aplicación de redes neuronales artificiales con información física para la resolución de problemas definidos por ecuaciones diferenciales
-
-</h3>
-
-<h5 align="center">
-
-Código complementario | Alejandro Medrano San Clemente
-
-</h5>
-
-<a href="https://github.com/alexmedranosan/PINNS"><strong>Explora el proyecto »</strong></a> <br /> <br />
-<a href="https://github.com/alexmedranosan/PINNS">View
-Demo</a> ·
-<a href="https://github.com/alexmedranosan/PINNS/issues">Report
-Bug</a> ·
-<a href="https://github.com/alexmedranosan/PINNS/issues">Request
-Feature</a>
-
-</p>
-:::
 
 <!-- ABOUT THE PROJECT -->
 
