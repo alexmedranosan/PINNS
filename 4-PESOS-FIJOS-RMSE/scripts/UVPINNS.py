@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@version: 1.0.a # Variante weights RMSE
+@version: 1.0.b - Variante RMSE
 @author : amedrano
 @date   : 24/08/2022
 @last modified by  : amedrano
@@ -78,12 +78,14 @@ class PINN(tf.keras.Model):
             tape.watch(self.trainable_variables)
             
             r = self.residual_r()
+            # Calculamos la ponderación
             r_sum = tf.reduce_sum(r)
             weights_exp = tf.exp(r/r_sum)
             weights_exp = weights_exp/tf.reduce_sum(weights_exp)
             loss_r = tf.reduce_sum(r * weights_exp)
             
             r_ic = self.residual_ic()
+            # Calculamos la ponderación
             r_ic_sum = tf.reduce_sum(r_ic)
             weights_exp = tf.exp(r_ic/r_ic_sum)
             weights_exp = weights_exp/tf.reduce_sum(weights_exp)

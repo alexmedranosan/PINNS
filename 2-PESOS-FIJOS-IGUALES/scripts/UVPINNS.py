@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@version: 1.0
+@version: 1.0.a - Variante básica
 @author : amedrano
 @date   : 24/08/2022
 @last modified by  : amedrano

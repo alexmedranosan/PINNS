@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@version: 1.0.c - Exponential weights
+@version: 1.0.d - Pesos exponenciales
 @author : amedrano
 @date   : 24/08/2022
 @last modified by  : amedrano
