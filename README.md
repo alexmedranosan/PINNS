@@ -14,7 +14,7 @@
     <img src="figs/logo_UV.png" alt="Logo" width="540" height="75"/> </a>
   </a>
 
-  <h3 align="center"> Trabajo Fin de Grado: \n Aplicación de redes neuronales artificiales con información física para la resolución de problemas definidos por ecuaciones diferenciales </h3>
+  <h3 align="center"> Trabajo Fin de Grado: <br /> Aplicación de redes neuronales artificiales con información física para la resolución de problemas definidos por ecuaciones diferenciales </h3>
   
   <h5 align="center"> Código complementario | Alejandro Medrano San Clemente </h5>
 
