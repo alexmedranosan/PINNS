@@ -62,4 +62,4 @@ Distribuido baja la licencia MIT. Ver `LICENSE.txt` para más información.
 
 ## Contacto
 
-Alejandro Medrano San Clemente- [amesan3@alumni.uv.es](mailto:amesan3@alumni.uv.es){.email}
+Alejandro Medrano San Clemente- [amesan3@alumni.uv.es](mailto:amesan3@alumni.uv.es)
